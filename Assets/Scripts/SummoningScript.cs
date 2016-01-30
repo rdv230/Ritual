@@ -4,6 +4,7 @@ using System.Collections;
 public class SummoningScript : MonoBehaviour {
 
 	public ParticleSystem HecateSystem;
+	public ParticleSystem MorganSystem;
 
 
 	// Use this for initialization
